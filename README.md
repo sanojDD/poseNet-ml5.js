@@ -32,5 +32,6 @@ To run this project locally, follow these steps:
 
 2.Navigate into the project directory:
    cd poseNet-ml5.js
+   
 3.Open the index.html file in a browser(use live server)
 
