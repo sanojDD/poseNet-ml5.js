@@ -18,3 +18,15 @@ p5.js – for creative coding and canvas rendering
 ml5.js – PoseNet implementation for browser-based pose tracking
 
 JavaScript – logic and webcam interaction
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+  git clone https://github.com/sanojDD/poseNet-ml5.js.git
+
+2.Navigate into the project directory:
+   cd poseNet-ml5.js
+3.Open the index.html file in a browser(use live server)
+
